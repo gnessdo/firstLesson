@@ -10,7 +10,7 @@ public class Car{
         System.out.println("Cem: "+(x+y));
     }
 
-    public Strings istifadeciAdi(){
+    public String istifadeciAdi(){
         return "Salam kohne Istifadeci";
     }
 
