@@ -14,7 +14,7 @@ public class Car{
         return "Salam kohne Istifadeci";
     }
 
-    public intoo vurma(int x, int y){
+    public int vurma(int x, int y){
         int hasil = x*y;
         return hasil;
     }
