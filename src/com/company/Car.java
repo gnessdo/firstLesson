@@ -11,7 +11,7 @@ public class Car{
     }
 
     public String istifadeciAdi(){
-        return "Salam YENI Istifadeci";
+        return "Salam kohne Istifadeci";
     }
 
     public int vurma(int x, int y){
